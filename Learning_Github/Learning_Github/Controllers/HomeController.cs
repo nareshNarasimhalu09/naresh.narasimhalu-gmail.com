@@ -15,7 +15,7 @@ namespace Learning_Github.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page. cheey pick";
+            ViewBag.Message = "Your application description page. cheey pick -1";
 
             return View();
         }
